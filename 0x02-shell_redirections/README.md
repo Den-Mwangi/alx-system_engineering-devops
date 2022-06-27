@@ -10,3 +10,4 @@
 8. script that writes into the file ls_cwd_content the result of the command ls -la.
 9. script that deletes all the regular files (not the directories) with a .js
 10. script that deletes all the regular files (not the directories) with a .js
+11. script that counts the number of directories and sub-directories in the cd
