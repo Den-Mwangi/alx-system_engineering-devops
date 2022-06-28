@@ -1,3 +1,4 @@
 0.script that creates an alias.
 1.script that prints hello user
 2.Add /action to the PATH.
+3.script that counts the number of directories in the PATH.
